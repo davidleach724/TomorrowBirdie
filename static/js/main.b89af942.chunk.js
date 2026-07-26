@@ -1,2 +1,0 @@
-(this.webpackJsonpiusedtoparty=this.webpackJsonpiusedtoparty||[]).push([[0],{11:function(t,e,i){"use strict";i.r(e);i(1);var n=i(3),s=i.n(n),c=(i(8),i(9),i.p+"static/media/birdie.75802351.JPG"),r=i(0),a=function(){return Object(r.jsx)("main",{children:Object(r.jsx)("img",{src:c,alt:"Birdie Parties",className:"birdie-pic"})})};s.a.render(Object(r.jsx)(a,{}),document.getElementById("root"))},8:function(t,e,i){},9:function(t,e,i){}},[[11,1,2]]]);
-//# sourceMappingURL=main.b89af942.chunk.js.map
